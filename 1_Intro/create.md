@@ -1,0 +1,1 @@
+## React can be installed with npm create vute@latest
